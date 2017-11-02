@@ -1,0 +1,9 @@
+[submodule "CIPEditor"]
+	path = CIPEditor
+	url = git@github.com:hkmoon/CIPEditor.git
+[submodule "CIP"]
+	path = CIP
+	url = git@github.com:hkmoon/CIP.git
+[submodule "ImgAlgo"]
+	path = ImgAlgo
+	url = git@github.com:benoitlo/ImgAlgo.git
